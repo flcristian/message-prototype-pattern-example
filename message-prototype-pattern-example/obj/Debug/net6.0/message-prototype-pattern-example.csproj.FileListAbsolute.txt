@@ -1,0 +1,15 @@
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\obj\Debug\net6.0\message-prototype-pattern-example.csproj.AssemblyReference.cache
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\obj\Debug\net6.0\message-prototype-pattern-example.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\obj\Debug\net6.0\message-prototype-pattern-example.AssemblyInfoInputs.cache
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\obj\Debug\net6.0\message-prototype-pattern-example.AssemblyInfo.cs
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\obj\Debug\net6.0\message-prototype-pattern-example.csproj.CoreCompileInputs.cache
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\bin\Debug\net6.0\message-prototype-pattern-example.exe
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\bin\Debug\net6.0\message-prototype-pattern-example.deps.json
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\bin\Debug\net6.0\message-prototype-pattern-example.runtimeconfig.json
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\bin\Debug\net6.0\message-prototype-pattern-example.dll
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\bin\Debug\net6.0\message-prototype-pattern-example.pdb
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\obj\Debug\net6.0\message-prototype-pattern-example.dll
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\obj\Debug\net6.0\refint\message-prototype-pattern-example.dll
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\obj\Debug\net6.0\message-prototype-pattern-example.pdb
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\obj\Debug\net6.0\message-prototype-pattern-example.genruntimeconfig.cache
+D:\mycode\cpp\csharp\design-patterns\message-prototype-pattern-example\message-prototype-pattern-example\obj\Debug\net6.0\ref\message-prototype-pattern-example.dll
